@@ -93,6 +93,7 @@
 * [2021.03.20] - [GodEye Web指纹识别平台](https://www.godeye.vip/)
 * [2021.03.20] - [云悉指纹（需要登录查询）](https://www.yunsee.cn/)
 * [2021.03.20] - [WhatWeb ruby写的Web指纹识别工具](https://github.com/urbanadventurer/WhatWeb)
+* [2021.03.24] - [数字观星指纹平台](https://fp.shuziguanxing.com/#/)
 
 > 比较好用的一些威胁情报平台
 
