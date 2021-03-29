@@ -132,6 +132,7 @@
 * [2021.03.22] - [超级云短信 在线短信接收](https://www.bfkdim.com/)
 * [2021.03.22] - [smsrflogo SMSReceiveFree Receive SMS Online](https://smsreceivefree.com/)
 * [2021.03.22] - [云短信 在线短信接收 materialtools](https://www.materialtools.com/)
+* [2021.03.29] - [临时邮箱- 免注册、edu邮箱、免费edu、edu学生 -马建军大学](https://mail.mjj.edu.ge/)
 
 > 密码破解/密码生成/MD5破解/MD5加密类网站
 
