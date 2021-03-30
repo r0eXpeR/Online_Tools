@@ -152,6 +152,7 @@
 * [2021.03.20] - [java.lang.Runtime.exec() Payload Workarounds](http://www.jackson-t.ca/runtime-exec-payloads.html)
 * [2021.03.20] - [hacking8 备忘录](https://www.hacking8.com/cheatsheet)
 * [2021.03.20] - [草料二维码生成器](https://cli.im/)
+* [2021.03.30] - [文件下载快捷命令生成 - EdgeSecurity](https://forum.ywhack.com/bountytips.php?download)
 
 > 网络空间安全搜索引擎
 
