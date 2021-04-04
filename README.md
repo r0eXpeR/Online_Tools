@@ -144,6 +144,7 @@
 * [2021.03.22] - [Online Password Recovery 在线密码恢复](https://passwordrecovery.io/)
 * [2021.03.22] - [在线随机密码生成工具](https://www.hacked.com.cn/password.php)
 * [2021.03.22] - [sojson MD5在线加密/解密/破解—MD5在线](https://www.sojson.com/md5/)
+* [2021.04.04] - [CyberChef 赛博瑞士军刀](https://gchq.github.io/CyberChef/)
 
 > 一些在线的命令生成网站,比如反弹shell命令，下载文件命令等等
 
