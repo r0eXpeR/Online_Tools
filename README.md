@@ -175,5 +175,18 @@
 * [2021.03.20] - [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 * [2021.03.20] - [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
 
+> 在线免费英语词典/字典
+
+* [2021.04.09] - [Cambridge Dictionary](https://dictionary.cambridge.org/)
+* [2021.04.09] - [Collins-thesaurus and reference materials](https://www.collinsdictionary.com/)
+* [2021.04.09] - [LongMan](https://www.ldoceonline.com/)
+* [2021.04.09] - [Mac Millan Dictionary](https://www.macmillandictionary.com/)
+
+> 在线聚合式搜索工具系列
+
+* [2021.04.09] - [Alexander Search](http://ezharjan.gitee.io/polsearch/)
+
+  
+
 此项目不定期进行更新......
 
